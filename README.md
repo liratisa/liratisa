@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <div>
     <ul>      
       <li>Brazilian living in Rio de Janeiro</li>      
-      <li>I'm a Chabot developer and I study Node.js 😄</li>     
+      <li>I'm a Chabot developer and currently I'm studying Node.js, SQL & other back-end technologies ☺️</li>     
     </ul>
   </div>
 <br/>
